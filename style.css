@@ -30,9 +30,6 @@ nav a {
   color: #007bff;
   font-size: 18px;
 }
-nav a:hover {
-
-}
 
 #header a{
   text-decoration: none;
@@ -65,4 +62,8 @@ footer{
   margin-top: 80px;
   padding-top: 20px;
   color: #CCC;
+}
+
+nav a:hover {
+  
 }
