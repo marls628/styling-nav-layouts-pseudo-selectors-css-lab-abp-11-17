@@ -29,9 +29,10 @@ nav a {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
-  link: hover;
 }
-
+nav a:hover {
+  
+}
 
 #header a{
   text-decoration: none;
